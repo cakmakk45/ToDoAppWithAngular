@@ -16,6 +16,7 @@
       "es2018",
       "dom"
     ]
+    //"strictNullChecks": false
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false
